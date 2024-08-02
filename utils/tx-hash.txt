@@ -1,0 +1,1 @@
+Tx hash : https://explorer-evm.testnet.swisstronik.com/tx/0x29aa279cc9e2fe291bfa0ae2d2b5c13b7632db7a1533314be7730682b59cb454
